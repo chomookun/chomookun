@@ -1,6 +1,6 @@
 # 💼 Career Summary
 
-## 📅 [2021. 07 ~ 2023. 02 (1 year 8 months)] Daewon CNC
+## 📅 [2021. 07 ~ 2023. 02 (1 year 8 months)] Daewon CNC (Freelancer)
 
 ### ■ KakaoPay Insurance Long-term Insurance System Project (2021.07–2023.02)
 - Designed batch architecture using Spring Boot, Spring Batch, and AWS
@@ -11,14 +11,14 @@
 
 ---
 
-## 📅 [2020. 07 ~ 2021. 03 (9 months)] GTU Solution
+## 📅 [2020. 07 ~ 2021. 03 (9 months)] GTU Solution (Freelancer)
 
 ### ■ KakaoPay Insurance Cloud Migration Project (2020.07–2021.03)
 - Migrated from monolithic batch architecture to AWS cloud-based architecture
 
 ---
 
-## 📅 [2019. 04 ~ 2019. 11 (8 months)] J2E
+## 📅 [2019. 04 ~ 2019. 11 (8 months)] J2E (Freelancer)
 
 ### ■ Douzone DEWS-Q Development Tool Project (2019.04–2019.11)
 - Developed Eclipse plugin (Extended Editor) using JDT, SWT, JFace
@@ -28,7 +28,10 @@
 - Built log analysis module using MongoDB Java library
 - Developed Code Inspection module using PMD
 - Built test coverage module using JACOCO (Jetty-based Java Agent)
-## 📅 [2018. 04 ~ 2018. 09 (6 months)] CSPI
+
+---
+
+## 📅 [2018. 04 ~ 2018. 09 (6 months)] CSPI (Freelancer)
 
 ### ■ Lotte Information & Communication Framework Project (2018.04–2018.09)
 - Developed batch application based on Spring Batch: Standalone + Spring Framework + Spring Batch
@@ -36,7 +39,7 @@
 
 ---
 
-## 📅 [2016. 08 ~ 2017. 12 (1 year 5 months)] Inforex
+## 📅 [2016. 08 ~ 2017. 12 (1 year 5 months)] Inforex (Freelancer)
 
 ### ■ Samsung SDS Next Plant Analytics Big Data Analysis Platform (2016.08–2017.12)
 - Job controller module using Provider-Consumer pattern and Java concurrency utilities
@@ -46,7 +49,7 @@
 
 ---
 
-## 📅 [2016. 04 ~ 2016. 06 (3 months)] CKC
+## 📅 [2016. 04 ~ 2016. 06 (3 months)] CKC (Freelancer)
 
 ### ■ KT Point Approval Middleware and Proxy Approval System (2016.04–2016.06)
 - Upgraded Netty communication module to Netty 4
@@ -54,7 +57,7 @@
 
 ---
 
-## 📅 [2014. 12 ~ 2016. 03 (1 year 4 months)] ContentsBridge
+## 📅 [2014. 12 ~ 2016. 03 (1 year 4 months)] ContentsBridge (Freelancer)
 
 ### ■ CDN (Contents Delivery Network) Service Maintenance and Development
 - Designed and developed monitoring agent and server: Observer Pattern, Jetty, MyBatis, SQLite
