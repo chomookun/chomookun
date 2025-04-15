@@ -6,4 +6,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 👨‍💻 Experience
-[experience](chomookun/experience.md)
+[experience](experience.md)
