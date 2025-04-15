@@ -31,4 +31,4 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### 👨‍💻 Project Experience
-👉 [English](experience.md) | [한국어](experience.ko.md)
+👉 [en](experience.md) | [ko](experience.ko.md)
