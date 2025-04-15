@@ -27,5 +27,5 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 👨‍💻 Project Experience
+### 👨‍💻 Experience
 👉 [en](experience.md)  [ko](experience.ko.md)
