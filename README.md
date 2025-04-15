@@ -1,4 +1,4 @@
-## 🛠️ My Tools
+## Hi~ 👋
 
 ### 💻 Language & framework
 ![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white)
