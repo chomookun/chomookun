@@ -1,6 +1,6 @@
 ## Hi~ 👋
 
-### 💻 Language & framework
+### 💻 My tools
 ![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-green?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-limegreen?style=flat-square&logo=springboot&logoColor=white)
@@ -9,7 +9,6 @@
 ![Groovy](https://img.shields.io/badge/Groovy-indigo?style=flat-square&logo=groovy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkgreen?style=flat-square&logo=python&logoColor=white)
 
-### 💾 Database
 ![MySQL](https://img.shields.io/badge/MySQL-steelblue?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-slateblue?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-crimson?style=flat-square&logo=oracle&logoColor=white)
@@ -18,8 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-seagreen?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-firebrick?style=flat-square&logo=redis&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-darkcyan?style=flat-square&logo=influxdb&logoColor=white)
-
-### 🖥️ Infrastructure & CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-0A0A0A?style=flat-square&logo=sonatype&logoColor=white)
@@ -31,4 +28,4 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### 👨‍💻 Project Experience
-👉 [en](experience.md) | [ko](experience.ko.md)
+👉 [en](experience.md)  [ko](experience.ko.md)
